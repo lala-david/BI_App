@@ -1,0 +1,212 @@
+[
+    {
+        "temperature": 28.0,
+        "humidity": 50.0,
+        "mq2_ppm": 3.67,
+        "mq7_ppm": 7.41,
+        "dust_density": 642.08,
+        "air_quality": "Normal",
+        "mq135_ppm": 3.99,
+        "timestamp": "2024-06-09 20:07:27"
+    },
+    {
+        "temperature": 28.0,
+        "humidity": 50.0,
+        "mq2_ppm": 3.56,
+        "mq7_ppm": 7.41,
+        "dust_density": 691.3,
+        "air_quality": "Normal",
+        "mq135_ppm": 3.93,
+        "timestamp": "2024-06-09 20:07:57"
+    },
+    {
+        "temperature": 28.0,
+        "humidity": 51.0,
+        "mq2_ppm": 3.39,
+        "mq7_ppm": 7.32,
+        "dust_density": 687.2,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.1,
+        "timestamp": "2024-06-09 20:18:47"
+    },
+    {
+        "temperature": 28.0,
+        "humidity": 51.0,
+        "mq2_ppm": 3.18,
+        "mq7_ppm": 7.25,
+        "dust_density": 621.57,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.04,
+        "timestamp": "2024-06-09 20:28:50"
+    },
+    {
+        "temperature": 28.0,
+        "humidity": 51.0,
+        "mq2_ppm": 3.39,
+        "mq7_ppm": 7.25,
+        "dust_density": 670.79,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.33,
+        "timestamp": "2024-06-09 20:38:45"
+    },
+    {
+        "temperature": 29.0,
+        "humidity": 54.0,
+        "mq2_ppm": 3.42,
+        "mq7_ppm": 7.5,
+        "dust_density": 629.78,
+        "air_quality": "Normal",
+        "mq135_ppm": 8.78,
+        "timestamp": "2024-06-10 00:30:47"
+    },
+    {
+        "temperature": 29.0,
+        "humidity": 53.0,
+        "mq2_ppm": 3.19,
+        "mq7_ppm": 7.6,
+        "dust_density": 761.03,
+        "air_quality": "Normal",
+        "mq135_ppm": 8.12,
+        "timestamp": "2024-06-10 00:40:47"
+    },
+    {
+        "temperature": 29.0,
+        "humidity": 54.0,
+        "mq2_ppm": 3.19,
+        "mq7_ppm": 7.41,
+        "dust_density": 691.3,
+        "air_quality": "Normal",
+        "mq135_ppm": 8.59,
+        "timestamp": "2024-06-10 00:50:44"
+    },
+    {
+        "temperature": 28.0,
+        "humidity": 55.0,
+        "mq2_ppm": 4.18,
+        "mq7_ppm": 7.56,
+        "dust_density": 728.21,
+        "air_quality": "Normal",
+        "mq135_ppm": 10.96,
+        "timestamp": "2024-06-10 01:00:47"
+    },
+    {
+        "temperature": 25.0,
+        "humidity": 57.0,
+        "mq2_ppm": 2.12,
+        "mq7_ppm": 3.42,
+        "dust_density": 400.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 3.29,
+        "timestamp": "2024-06-12 21:37:48"
+    },
+    {
+        "temperature": 24.0,
+        "humidity": 60.0,
+        "mq2_ppm": 2.05,
+        "mq7_ppm": 4.63,
+        "dust_density": 500.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 4.0,
+        "timestamp": "2024-06-12 21:47:48"
+    },
+    {
+        "temperature": 25.0,
+        "humidity": 60.0,
+        "mq2_ppm": 0.0,
+        "mq7_ppm": 5.37,
+        "dust_density": 728.21,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.21,
+        "timestamp": "2024-06-12 22:05:08"
+    },
+    {
+        "temperature": 25.0,
+        "humidity": 60.0,
+        "mq2_ppm": 6.0,
+        "mq7_ppm": 5.37,
+        "dust_density": 679.0,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.32,
+        "timestamp": "2024-06-12 22:06:09"
+    },
+    {
+        "temperature": 25.0,
+        "humidity": 59.0,
+        "mq2_ppm": 0.0,
+        "mq7_ppm": 5.37,
+        "dust_density": 748.72,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.32,
+        "timestamp": "2024-06-12 22:07:10"
+    },
+    {
+        "temperature": 24.0,
+        "humidity": 58.0,
+        "mq2_ppm": 3.55,
+        "mq7_ppm": 6.79,
+        "dust_density": 609.27,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.37,
+        "timestamp": "2024-06-13 11:38:31"
+    },
+    {
+        "temperature": 24.0,
+        "humidity": 59.0,
+        "mq2_ppm": 3.55,
+        "mq7_ppm": 6.79,
+        "dust_density": 642.08,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.43,
+        "timestamp": "2024-06-13 11:39:02"
+    },
+    {
+        "temperature": 24.0,
+        "humidity": 59.0,
+        "mq2_ppm": 3.55,
+        "mq7_ppm": 6.76,
+        "dust_density": 637.98,
+        "air_quality": "Normal",
+        "mq135_ppm": 4.5,
+        "timestamp": "2024-06-13 11:39:33"
+    },
+    {
+        "temperature": 0.0,
+        "humidity": 0.0,
+        "mq2_ppm": 3.62,
+        "mq7_ppm": 7.88,
+        "dust_density": 0.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 0.0,
+        "timestamp": "2024-06-13 13:14:38"
+    },
+    {
+        "temperature": 0.0,
+        "humidity": 0.0,
+        "mq2_ppm": 3.62,
+        "mq7_ppm": 7.88,
+        "dust_density": 0.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 0.0,
+        "timestamp": "2024-06-13 13:14:38"
+    },
+    {
+        "temperature": 0.0,
+        "humidity": 0.0,
+        "mq2_ppm": 3.62,
+        "mq7_ppm": 7.88,
+        "dust_density": 0.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 0.0,
+        "timestamp": "2024-06-13 13:14:38"
+    },
+    {
+        "temperature": 0.0,
+        "humidity": 0.0,
+        "mq2_ppm": 3.62,
+        "mq7_ppm": 7.88,
+        "dust_density": 0.0,
+        "air_quality": "Unknown",
+        "mq135_ppm": 0.0,
+        "timestamp": "2024-06-13 13:14:38"
+    }
+]
