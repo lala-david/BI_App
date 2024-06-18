@@ -7,7 +7,7 @@
 
 
 # 🔬 서비스 기능
-#### 🤠 BIVIS ChatBot 
+#### 🤠 BIVIS ChatBot
 #### 📊 IoT Graph
 #### 📸 BI CCTV 
 #### 👨‍👨‍👧‍👧 Member
@@ -15,5 +15,17 @@
 ## UI / UX
 ![alt text](assets/UI&UX.png)
 
-## BIVIS ChatBot
+## 🤠 BIVIS ChatBot
+![alt text](assets/CHAT.png)
+![alt text](assets/CHAT2.png)
 
+
+## 📊 IoT Graph
+![alt text](assets/graph.png)
+
+
+## 📸 BI CCTV 
+![alt text](assets/bicctv.png)
+
+## 👨‍👨‍👧‍👧 Member
+- [Member](https://slime-death-220.notion.site/2e9cf85ca96242c99320ba5cc728a472)
