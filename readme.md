@@ -30,9 +30,6 @@
 
 ## 📸 BI CCTV 
 ![alt text](assets/bicctv.png)
-
-## 👨‍👨‍👧‍👧 Member
-- [Member](https://slime-death-220.notion.site/2e9cf85ca96242c99320ba5cc728a472)
 ---------------------------------------------------------------------------
 ### 🌠 아두이노 및 라즈베리파이 구성도
 ![alt text](assets/stru.png)
